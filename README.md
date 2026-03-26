@@ -2,8 +2,6 @@
 
 A desktop analytics platform for tracking, analyzing, and optimizing performance across multiple proprietary trading accounts. Built to solve a real problem — prop firms have strict payout rules (profit goals, consistency limits, drawdown thresholds) that vary by account type, and no existing tool consolidates it all into one view.
 
-![Dashboard Screenshot](Capture.JPG)
-
 ## What It Does
 
 **Import a CSV of your daily trades → get instant statistical breakdowns, running P&L curves, and real-time payout eligibility tracking.**
